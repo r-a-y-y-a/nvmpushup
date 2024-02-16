@@ -1,5 +1,4 @@
 # NVMPUSHUP.
-#### Video Demo:  <https://youtu.be/0ioKY5AHnoY>
 #### Description:
 NVMPUSHUP. is a web app that allows one to calculate their IPPT score, record it down in the website to view their progress in chronological order as well as view others' scores so as to motivate oneself to work harder to improve their own scores. As a Singaporean son, I have to serve my National Service, a mandatory 2 year term where I enlist into the army to serve my nation. As part of National Service, we often take this fitness test called the IPPT(Individual Physical Proficiency Test). However, most records are not made public due to the sensitive nature of how the camps are run being inherently displayed in the army logs. As such, I created NVMPUSHUP., a website that gives more transparency to the IPPT scores so that one is able to better motivate and encourage other people and themselves to work on their fitness and strive for higher awards. 
 
